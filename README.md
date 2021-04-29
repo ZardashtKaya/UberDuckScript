@@ -4,7 +4,9 @@
 
 ## Requirements
 ffmpeg
+
 unix-based system
+
 curl
 
 ## Usage
